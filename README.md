@@ -6,7 +6,7 @@ I'm a technical people person with expertise in building & scaling distributed s
 - Designing distributed systems
 - Scaling
 - Building using the actor model
-- Reverse engineering and competitve intelligence
+- Reverse engineering
 - Networking
 
 👨‍💻 Languages and Frameworks:
